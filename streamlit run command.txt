@@ -1,0 +1,1 @@
+ streamlit run "C:\Users\satya\PycharmProjects\Multiple_Disease_pre\multiple disease pred.py"
